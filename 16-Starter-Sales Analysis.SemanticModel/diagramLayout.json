@@ -5,23 +5,9 @@
       "ordinal": 0,
       "scrollPosition": {
         "x": 0,
-        "y": 0
+        "y": 68.571428571428569
       },
       "nodes": [
-        {
-          "location": {
-            "x": 0,
-            "y": 647.18245798323028
-          },
-          "nodeIndex": "SalespersonRegion",
-          "nodeLineageTag": "1bc088d9-fc8b-44d4-a55c-864d6465b75c",
-          "size": {
-            "height": 72,
-            "width": 234
-          },
-          "zIndex": 3,
-          "expandedHeight": 128
-        },
         {
           "location": {
             "x": 0,
